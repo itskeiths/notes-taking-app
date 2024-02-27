@@ -4,41 +4,36 @@ A web application for taking short notes.
 
 ## Tech Stack
 
-**Client:** React, Redux Toolkit, Material UI
-
-**Server:** Node, Express, JWT Token
+**Client:** React JS
 
 **Database:** MongoDB with Mongoose
 
 ## Features
 
-- Authentication using JWT tokens
+- Authentication
 - Create, Edit and Delete Notes
-- Mobile Friendly
+
 
 ## Screenshots
 
 ## <p align="center"> Signup </p>
 
-![image](cn1.png)
+![image](signup.png)
 
 ## <p align="center"> Login </p>
 
-![image](https://github.com/soumya-maheshwari/Notes-App/assets/104725768/d8b78847-d455-4a24-9141-3384155cbe39)
+![image](login.png)
 
 ## <p align="center"> Create Note </p>
 
-![image](https://github.com/soumya-maheshwari/Notes-App/assets/104725768/73f7855b-9a33-4eb5-a188-fb6a7c488ccd)
-![image](https://github.com/soumya-maheshwari/Notes-App/assets/104725768/be1467ad-559e-4b26-92d1-4b32b8830b9d)
+![image](cn1.png)
+![image](cn2.png)
 
 ## <p align="center"> Edit Note </p>
 
-![image](https://github.com/soumya-maheshwari/Notes-App/assets/104725768/a602446b-1a8e-4eb4-b81e-eabc791cc6a1)
+![image](en.png)
 
 ## <p align="center"> Delete Note </p>
 
-![image](https://github.com/soumya-maheshwari/Notes-App/assets/104725768/1bc0c475-f37b-4c1c-9a18-a83e04550e1c)
+![image](dn.png)
 
-## <p align="center"> Logout </p>
-
-![Screenshot (108)](https://github.com/soumya-maheshwari/Notes-App/assets/104725768/ff490169-a0e4-4db7-bfab-e425d0a4dae6)
