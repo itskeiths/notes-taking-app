@@ -2,19 +2,8 @@
 
 A web application for taking short notes.
 
-## Tech Stack
 
-**Client:** React, Redux Toolkit, Material UI
 
-**Server:** Node, Express, JWT Token
-
-**Database:** MongoDB with Mongoose
-
-## Features
-
-- Authentication using JWT tokens
-- Create, Edit and Delete Notes
-- Mobile Friendly
 
 ## Screenshots
 
