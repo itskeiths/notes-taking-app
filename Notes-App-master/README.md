@@ -20,7 +20,7 @@ A web application for taking short notes.
 
 ## <p align="center"> Signup </p>
 
-![image](https://github.com/soumya-maheshwari/Notes-App/assets/104725768/ccf74677-954e-44d0-be38-dade2620e47a)
+![image](cn1.png)
 
 ## <p align="center"> Login </p>
 
